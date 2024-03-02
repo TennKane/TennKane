@@ -17,19 +17,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -49,9 +36,9 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;嗨，你好，我是这个大大世界的一个小小旅者</p>
+<p>&emsp;&emsp;热爱编程、摄影、骑行、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学技术，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
@@ -60,20 +47,6 @@
 <tr><td>
 
 ### 🏢 Work Experience
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
-
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
-
-  - 工作岗位：软件工程师
-  - 工作内容：创业
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
-
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
-
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：杂活
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
@@ -86,53 +59,7 @@
 
 <tr><td>
 
-### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/a8bf3922/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
-* <a href='https://blog.sunguoqi.com/posts/2c20bbfc/' target='_blank'>青春没有售价，火车直达拉萨！</a> - 2024-02-16
-* <a href='https://blog.sunguoqi.com/posts/e9426d4f/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
-* <a href='https://blog.sunguoqi.com/posts/9f4f8f84/' target='_blank'>关于个人独立博客，我的折腾和思考</a> - 2023-12-09
-* <a href='https://blog.sunguoqi.com/posts/3eb6a074/' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/frontend/guide/evolution.html' target='_blank'>前端开发演进史</a> - 2023-03-25
-* <a href='https://brain.sunguoqi.com/web/frontend/guide/what-is.html' target='_blank'>什么是前端开发</a> - 2024-02-20
-* <a href='https://brain.sunguoqi.com/web/frontend/js/es6/test.html' target='_blank'>es6</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/js/js/test.html' target='_blank'>JS</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2023-12-08
-<!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
-
-### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
-
-</td></tr>
-
-<tr><td>
 
 ### 📊 WakaTime
 
