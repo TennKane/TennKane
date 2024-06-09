@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello,world!&center=true&size=27" />
     </a>
   </div>
 
@@ -17,24 +17,11 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-</div>
+## 我是康 🌷
 
-#  🙋 Hello
+- 🌹 I am a developer mainly engaged in Java development 🐵.
+- :pencil: 博客：[掘金💤](https://juejin.cn/user/1480400067634092) - 無限進步
 
-<table>
-  
-<tr><td>
-
-### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-
-<p>&emsp;&emsp;嗨，你好，我是小关同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-</td></tr>
-
-<tr><td>
+- 🏡 业务项目： <a href="https://github.com/TennKane/wkwk-backend" target="_blank">哇酷哇酷音视频</a> | <a href="https://github.com/TennKane/cliff-api" target="_blank">CliffAPI平台</a> | <a href="https://github.com/TennKane/cliffbi-backend" target="_blank">CliffBI智能分析</a> 
+- 🚀组件项目：<a href="https://github.com/TennKane/cliff-rpc" target="_blank">轻量级RPC框架</a>
+- 🎹 算法笔记：<a href="https://github.com/TennKane/code-diary" target="_blank">LeetCode算法</a>
