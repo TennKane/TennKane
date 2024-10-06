@@ -20,7 +20,7 @@
 ## 我是康 🌷
 
 - 🌹 I am a developer mainly engaged in Java development 🐵.
-- :pencil: 博客：[掘金💤](https://juejin.cn/user/1480400067634092) - 無限進步
+- :pencil: 博客：[掘金💤](https://juejin.cn/user/1480400067634092) 、语雀 https://www.yuque.com/yeyujibeibujinan- 無限進步
 
 - 🏡 业务项目： <a href="https://github.com/TennKane/wkwk-backend" target="_blank">哇酷哇酷音视频</a> | <a href="https://github.com/TennKane/cliff-api" target="_blank">CliffAPI平台</a> | <a href="https://github.com/TennKane/cliffbi-backend" target="_blank">CliffBI智能分析</a> 
 - 🚀组件项目：<a href="https://github.com/TennKane/cliff-rpc" target="_blank">轻量级RPC框架</a>
